@@ -60,11 +60,4 @@ We tested three classification models:
 - Ensemble models like Random Forest can significantly improve predictive performance
 - A structured modeling pipeline with `tidymodels` ensures reproducibility and interpretability
 
----
-
-## 📁 Files
-
-- `loan_code_re.html` – Full RMarkdown report (EDA + modeling + evaluation)
-- `README.md` – Project overview (this file)
-
 > _This project was submitted as part of the final assignment for STAT5125: Statistical Computing._
